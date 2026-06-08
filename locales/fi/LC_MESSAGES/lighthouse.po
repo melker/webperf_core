@@ -1,0 +1,601 @@
+# Finnish
+# Copyright (C) 2025 WebPerf
+# FIRST AUTHOR <mattias@webperf.se>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-04-27 12:00\n"
+"PO-Revision-Date: 2025-10-15 18:00\n"
+"Last-Translator: Mattias <mattias@webperf.se>\n"
+"Language-Team: Finnish <team@webperf.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+#
+# Example(s):
+# Please note that msgid has to be unique in each file.
+# {0} in msgstr will add the severity, one of (critical, error, warning, resolved).
+
+msgid "rule-id (unresolved)"
+msgstr "Teksti joka näytetään msgid:n sijaan, näytetään vakavuustasoille (critical, error ja warning)"
+
+msgid "rule-id (resolved)"
+msgstr "Teksti joka näytetään msgid:n sijaan, tässä ainutlaatuinen vakavuustasolle (resolved)"
+
+msgid "rule-id"
+msgstr "Teksti joka näytetään msgid:n sijaan, tässä riippumatta vakavuustasosta"
+
+# End of Examples
+
+
+msgid "largest-contentful-paint-element (unresolved)"
+msgstr "Suurin sisältörikas elementti ({0})"
+
+msgid "largest-contentful-paint-element (resolved)"
+msgstr "Suurin sisältörikas elementti (ratkaistu)"
+
+msgid "unused-css-rules (unresolved)"
+msgstr "Vähennä käyttämätöntä CSS:ää ({0})"
+
+msgid "unused-css-rules (resolved)"
+msgstr "Vähennä käyttämätöntä CSS:ää (ratkaistu)"
+
+msgid "unused-javascript (unresolved)"
+msgstr "Vähennä käyttämätöntä JavaScriptiä ({0})"
+
+msgid "unused-javascript (resolved)"
+msgstr "Vähennä käyttämätöntä JavaScriptiä (ratkaistu)"
+
+msgid "legacy-javascript (unresolved)"
+msgstr "Vältä vanhan JavaScriptin toimittamista nykyaikaisiin selaimiin ({0})"
+
+msgid "legacy-javascript (resolved)"
+msgstr "Vältä vanhan JavaScriptin toimittamista nykyaikaisiin selaimiin (ratkaistu)"
+
+msgid "cumulative-layout-shift (unresolved)"
+msgstr "Kumulatiivinen asettelumuutos ({0})"
+
+msgid "cumulative-layout-shift (resolved)"
+msgstr "Kumulatiivinen asettelumuutos (ratkaistu)"
+
+msgid "duplicated-javascript (unresolved)"
+msgstr "Poista JavaScript-pakettien kaksoiskappaleet ({0})"
+
+msgid "duplicated-javascript (resolved)"
+msgstr "Poista JavaScript-pakettien kaksoiskappaleet (ratkaistu)"
+
+msgid "layout-shifts (unresolved)"
+msgstr "Vältä suuria asettelumuutoksia ({0})"
+
+msgid "layout-shifts (resolved)"
+msgstr "Vältä suuria asettelumuutoksia (ratkaistu)"
+
+msgid "largest-contentful-paint (unresolved)"
+msgstr "Suurin sisältörikas piirto ({0})"
+
+msgid "largest-contentful-paint (resolved)"
+msgstr "Suurin sisältörikas piirto (ratkaistu)"
+
+msgid "uses-long-cache-ttl (unresolved)"
+msgstr "Tarjoa staattisia resursseja tehokkaalla välimuistipolitiikalla ({0})"
+
+msgid "uses-long-cache-ttl (resolved)"
+msgstr "Tarjoa staattisia resursseja tehokkaalla välimuistipolitiikalla (ratkaistu)"
+
+msgid "first-contentful-paint (unresolved)"
+msgstr "Ensimmäinen sisältörikas piirto ({0})"
+
+msgid "first-contentful-paint (resolved)"
+msgstr "Ensimmäinen sisältörikas piirto (ratkaistu)"
+
+msgid "render-blocking-resources (unresolved)"
+msgstr "Poista renderöinnin estävät resurssit ({0})"
+
+msgid "render-blocking-resources (resolved)"
+msgstr "Poista renderöinnin estävät resurssit (ratkaistu)"
+
+msgid "total-blocking-time (unresolved)"
+msgstr "Kokonaisestymisaika ({0})"
+
+msgid "total-blocking-time (resolved)"
+msgstr "Kokonaisestymisaika (ratkaistu)"
+
+msgid "speed-index (unresolved)"
+msgstr "Nopeusindeksi ({0})"
+
+msgid "speed-index (resolved)"
+msgstr "Nopeusindeksi (ratkaistu)"
+
+msgid "interactive (unresolved)"
+msgstr "Aika interaktiivisuuteen ({0})"
+
+msgid "interactive (resolved)"
+msgstr "Aika interaktiivisuuteen (ratkaistu)"
+
+msgid "max-potential-fid (unresolved)"
+msgstr "Suurin mahdollinen ensimmäisen syötteen viive ({0})"
+
+msgid "max-potential-fid (resolved)"
+msgstr "Suurin mahdollinen ensimmäisen syötteen viive (ratkaistu)"
+
+msgid "uses-responsive-images (unresolved)"
+msgstr "Mukauta kuvakoot oikein ({0})"
+
+msgid "uses-responsive-images (resolved)"
+msgstr "Mukauta kuvakoot oikein (ratkaistu)"
+
+msgid "offscreen-images (unresolved)"
+msgstr "Lykkää näytön ulkopuolisia kuvia ({0})"
+
+msgid "offscreen-images (resolved)"
+msgstr "Lykkää näytön ulkopuolisia kuvia (ratkaistu)"
+
+msgid "unminified-css (unresolved)"
+msgstr "Pienennä CSS ({0})"
+
+msgid "unminified-css (resolved)"
+msgstr "Pienennä CSS (ratkaistu)"
+
+msgid "unminified-javascript (unresolved)"
+msgstr "Pienennä JavaScript ({0})"
+
+msgid "unminified-javascript (resolved)"
+msgstr "Pienennä JavaScript (ratkaistu)"
+
+msgid "uses-optimized-images (unresolved)"
+msgstr "Kuvien tehokas koodaus ({0})"
+
+msgid "uses-optimized-images (resolved)"
+msgstr "Kuvien tehokas koodaus (ratkaistu)"
+
+msgid "modern-image-formats (unresolved)"
+msgstr "Tarjoa kuvia seuraavan sukupolven formaateissa ({0})"
+
+msgid "modern-image-formats (resolved)"
+msgstr "Tarjoa kuvia seuraavan sukupolven formaateissa (ratkaistu)"
+
+msgid "uses-text-compression (unresolved)"
+msgstr "Ota tekstin pakkaus käyttöön ({0})"
+
+msgid "uses-text-compression (resolved)"
+msgstr "Ota tekstin pakkaus käyttöön (ratkaistu)"
+
+msgid "uses-rel-preconnect (unresolved)"
+msgstr "Esikytkeydy tarvittaviin alkuperiin ({0})"
+
+msgid "uses-rel-preconnect (resolved)"
+msgstr "Esikytkeydy tarvittaviin alkuperiin (ratkaistu)"
+
+msgid "server-response-time (unresolved)"
+msgstr "Alkuperäinen palvelinvastausaika oli lyhyt ({0})"
+
+msgid "server-response-time (resolved)"
+msgstr "Alkuperäinen palvelinvastausaika oli lyhyt (ratkaistu)"
+
+msgid "redirects (unresolved)"
+msgstr "Vältä useita sivuuudelleenohjauksia ({0})"
+
+msgid "redirects (resolved)"
+msgstr "Vältä useita sivuuudelleenohjauksia (ratkaistu)"
+
+msgid "efficient-animated-content (unresolved)"
+msgstr "Käytä videoformaattia animoidulle sisällölle ({0})"
+
+msgid "efficient-animated-content (resolved)"
+msgstr "Käytä videoformaattia animoidulle sisällölle (ratkaistu)"
+
+msgid "total-byte-weight (unresolved)"
+msgstr "Vältä valtavia verkkokuormia ({0})"
+
+msgid "total-byte-weight (resolved)"
+msgstr "Vältä valtavia verkkokuormia (ratkaistu)"
+
+msgid "dom-size (unresolved)"
+msgstr "Vältä liiallista DOM-kokoa ({0})"
+
+msgid "dom-size (resolved)"
+msgstr "Vältä liiallista DOM-kokoa (ratkaistu)"
+
+msgid "bootup-time (unresolved)"
+msgstr "JavaScript-suoritusaika ({0})"
+
+msgid "bootup-time (resolved)"
+msgstr "JavaScript-suoritusaika (ratkaistu)"
+
+msgid "mainthread-work-breakdown (unresolved)"
+msgstr "Minimoi pääsäikeen työ ({0})"
+
+msgid "mainthread-work-breakdown (resolved)"
+msgstr "Minimoi pääsäikeen työ (ratkaistu)"
+
+msgid "font-display (unresolved)"
+msgstr "Kaiken tekstin tulee pysyä näkyvissä webfontin latauksen aikana ({0})"
+
+msgid "font-display (resolved)"
+msgstr "Kaikki teksti pysyy näkyvissä webfontin latauksen aikana (ratkaistu)"
+
+msgid "uses-passive-event-listeners (unresolved)"
+msgstr "Käytä passiivisia kuuntelijoita vierityskyvyn parantamiseksi ({0})"
+
+msgid "uses-passive-event-listeners (resolved)"
+msgstr "Käyttää passiivisia kuuntelijoita vierityskyvyn parantamiseksi (ratkaistu)"
+
+msgid "no-document-write (unresolved)"
+msgstr "Javascript, vältä `document.write()` ({0})"
+
+msgid "no-document-write (resolved)"
+msgstr "Javascript, välttää `document.write() (ratkaistu)"
+
+msgid "long-tasks (unresolved)"
+msgstr "Vältä pitkiä pääsäikeen tehtäviä ({0})"
+
+msgid "long-tasks (resolved)"
+msgstr "Välttää pitkiä pääsäikeen tehtäviä (ratkaistu)"
+
+msgid "unsized-images (unresolved)"
+msgstr "Kuvaelementeillä tulee olla eksplisiittinen `width` och `height` ({0})"
+
+msgid "unsized-images (resolved)"
+msgstr "Kuvaelementeillä on eksplisiittinen `width` och `height` (ratkaistu)"
+
+msgid "viewport (unresolved)"
+msgstr "Ska ha en <meta name=\"viewport\">-tagg med width eller initial-scale ({0})"
+
+msgid "viewport (resolved)"
+msgstr "Har en <meta name=\"viewport\">-tagg med width eller initial-scale (ratkaistu)"
+
+msgid "network-requests (unresolved)"
+msgstr "Nätverkspyyntöjä ({0})"
+
+msgid "network-requests (resolved)"
+msgstr "Nätverkspyyntöjä (ratkaistu)"
+
+msgid "network-rtt (unresolved)"
+msgstr "Verkon edestakainen viive ({0})"
+
+msgid "network-rtt (resolved)"
+msgstr "Verkon edestakainen viive (ratkaistu)"
+
+msgid "network-server-latency (unresolved)"
+msgstr "Palvelimen taustajärjestelmän viiveet ({0})"
+
+msgid "network-server-latency (resolved)"
+msgstr "Palvelimen taustajärjestelmän viiveet (ratkaistu)"
+
+msgid "main-thread-tasks (unresolved)"
+msgstr "Pääsäikeen tehtävät ({0})"
+
+msgid "main-thread-tasks (resolved)"
+msgstr "Pääsäikeen tehtävät (ratkaistu)"
+
+msgid "diagnostics (unresolved)"
+msgstr "Diagnostiikka ({0})"
+
+msgid "diagnostics (resolved)"
+msgstr "Diagnostiikka (ratkaistu)"
+
+msgid "metrics (unresolved)"
+msgstr "Mittausarvot ({0})"
+
+msgid "metrics (resolved)"
+msgstr "Mittausarvot (ratkaistu)"
+
+msgid "screenshot-thumbnails (unresolved)"
+msgstr "Kuvakaappausten pikkukuvat ({0})"
+
+msgid "screenshot-thumbnails (resolved)"
+msgstr "Kuvakaappausten pikkukuvat (ratkaistu)"
+
+msgid "final-screenshot (unresolved)"
+msgstr "lopullinen kuvakaappaus ({0})"
+
+msgid "final-screenshot (resolved)"
+msgstr "lopullinen kuvakaappaus (ratkaistu)"
+
+msgid "script-treemap-data (unresolved)"
+msgstr "script-treemap-data ({0})"
+
+msgid "script-treemap-data (resolved)"
+msgstr "script-treemap-data (ratkaistu)"
+
+msgid "resource-summary (unresolved)"
+msgstr "resurssien yhteenveto ({0})"
+
+msgid "resource-summary (resolved)"
+msgstr "resurssien yhteenveto (ratkaistu)"
+
+msgid "aria-allowed-attr (unresolved)"
+msgstr "`[aria-*]`-attribut ska matcha sina roller ({0})"
+
+msgid "aria-allowed-attr (resolved)"
+msgstr "`[aria-*]`-attribut matchar sina roller (ratkaistu)"
+
+msgid "aria-allowed-role (unresolved)"
+msgstr "Ska använda ARIA-roller endast på kompatibla element ({0})"
+
+msgid "aria-allowed-role (resolved)"
+msgstr "Använder ARIA-roller endast på kompatibla element (ratkaistu)"
+
+msgid "aria-conditional-attr (unresolved)"
+msgstr "ARIA-attribut ska användas enligt specifikation för elementets roll ({0})"
+
+msgid "aria-conditional-attr (resolved)"
+msgstr "ARIA-attribut används enligt specifikation för elementets roll (ratkaistu)"
+
+msgid "aria-deprecated-role (unresolved)"
+msgstr "Föråldrade ARIA-roller användes ({0})"
+
+msgid "aria-deprecated-role (resolved)"
+msgstr "Föråldrade ARIA-roller användes inte (ratkaistu)"
+
+msgid "aria-hidden-body (unresolved)"
+msgstr "`[aria-hidden=\"true\"]` finns på dokumentets `<body>` ({0})"
+
+msgid "aria-hidden-body (resolved)"
+msgstr "`[aria-hidden=\"true\"]` finns inte på dokumentets `<body>` (ratkaistu)"
+
+msgid "aria-hidden-focus (unresolved)"
+msgstr "`[aria-hidden=\"true\"]`-element innehåller inte fokuserbara underordnade ({0})"
+
+msgid "aria-hidden-focus (resolved)"
+msgstr "`[aria-hidden=\"true\"]`-element innehåller inte fokuserbara underordnade (ratkaistu)"
+
+msgid "aria-prohibited-attr (unresolved)"
+msgstr "Element ska endast använda tillåtna ARIA-attribut ({0})"
+
+msgid "aria-prohibited-attr (resolved)"
+msgstr "Element käyttää endast tillåtna ARIA-attribut (ratkaistu)"
+
+msgid "aria-required-attr (unresolved)"
+msgstr "`[role]` ska ha alla nödvändiga `[aria-*]`-attribut ({0})"
+
+msgid "aria-required-attr (resolved)"
+msgstr "`[role]` har alla nödvändiga `[aria-*]`-attribut (ratkaistu)"
+
+msgid "aria-roles (unresolved)"
+msgstr "`[role]`-värden är inte giltiga ({0})"
+
+msgid "aria-roles (resolved)"
+msgstr "`[role]`-värden är giltiga (ratkaistu)"
+
+msgid "aria-valid-attr-value (unresolved)"
+msgstr "`[aria-*]`-attribut har ogiltiga värden ({0})"
+
+msgid "aria-valid-attr-value (resolved)"
+msgstr "`[aria-*]`-attribut har giltiga värden (ratkaistu)"
+
+msgid "aria-valid-attr (unresolved)"
+msgstr "`[aria-*]`-attribut är ogiltiga eller felstavade ({0})"
+
+msgid "aria-valid-attr (resolved)"
+msgstr "`[aria-*]`-attribut är giltiga och inte felstavade (ratkaistu)"
+
+msgid "button-name (unresolved)"
+msgstr "Painikkeilla tulee olla saavutettava nimi ({0})"
+
+msgid "button-name (resolved)"
+msgstr "Painikkeilla on saavutettava nimi (ratkaistu)"
+
+msgid "color-contrast (unresolved)"
+msgstr "Bakgrunds- och förgrundsfärger ska ha tillräcklig kontrast ({0})"
+
+msgid "color-contrast (resolved)"
+msgstr "Bakgrunds- och förgrundsfärger har tillräcklig kontrast (ratkaistu)"
+
+msgid "document-title (unresolved)"
+msgstr "Dokumentet ska ha ett `<title>`-element ({0})"
+
+msgid "document-title (resolved)"
+msgstr "Dokumentet har ett `<title>`-element (ratkaistu)"
+
+msgid "heading-order (unresolved)"
+msgstr "Rubrikelement ska visas i sekventiellt fallande ordning ({0})"
+
+msgid "heading-order (resolved)"
+msgstr "Rubrikelement visas i sekventiellt fallande ordning (ratkaistu)"
+
+msgid "html-has-lang (unresolved)"
+msgstr "`<html>`-elementet ska ha ett `[lang]`-attribut ({0})"
+
+msgid "html-has-lang (resolved)"
+msgstr "`<html>`-elementet har ett `[lang]`-attribut (ratkaistu)"
+
+msgid "html-lang-valid (unresolved)"
+msgstr "`<html>`-elementet ska ha ett giltigt värde för sitt `[lang]`-attribut ({0})"
+
+msgid "html-lang-valid (resolved)"
+msgstr "`<html>`-elementet har ett giltigt värde för sitt `[lang]`-attribut (ratkaistu)"
+
+msgid "image-alt (unresolved)"
+msgstr "Bildelement ska ha `[alt]`-attribut ({0})"
+
+msgid "image-alt (resolved)"
+msgstr "Bildelement har `[alt]`-attribut (ratkaistu)"
+
+msgid "image-redundant-alt (unresolved)"
+msgstr "Bildelement ska inte ha `[alt]`-attribut som är redundant text ({0})"
+
+msgid "image-redundant-alt (resolved)"
+msgstr "Bildelement har inte `[alt]`-attribut som är redundant text (ratkaistu)"
+
+msgid "link-in-text-block (unresolved)"
+msgstr "Länkar är inte urskiljbara utan att förlita sig på färg ({0})"
+
+msgid "link-in-text-block (resolved)"
+msgstr "Länkar är urskiljbara utan att förlita sig på färg (ratkaistu)"
+
+msgid "link-name (unresolved)"
+msgstr "Länkar ska ha ett urskiljbart namn ({0})"
+
+msgid "link-name (resolved)"
+msgstr "Länkar har ett urskiljbart namn (ratkaistu)"
+
+msgid "list (unresolved)"
+msgstr "Listor ska endast innehålla `<li>`-element och skriptstödelement (`<script>` och `<template>`) ({0})"
+
+msgid "list (resolved)"
+msgstr "Listor innehåller endast `<li>`-element och skriptstödelement (`<script>` och `<template>`) (ratkaistu)"
+
+msgid "listitem (unresolved)"
+msgstr "Listobjekt (`<li>`) är inte placerade inom `<ul>`, `<ol>` eller `<menu>`-förälderelement ({0})"
+
+msgid "listitem (resolved)"
+msgstr "Listobjekt (`<li>`) är placerade inom `<ul>`, `<ol>` eller `<menu>`-förälderelement (ratkaistu)"
+
+msgid "meta-viewport (unresolved)"
+msgstr "`[user-scalable=\"no\"]` används i `<meta name=\"viewport\">`-elementet eller `[maximum-scale]`-attributet är mindre än 5 ({0})"
+
+msgid "meta-viewport (resolved)"
+msgstr "`[user-scalable=\"no\"]` används inte i `<meta name=\"viewport\">`-elementet och `[maximum-scale]`-attributet är inte mindre än 5 (ratkaistu)"
+
+msgid "target-size (unresolved)"
+msgstr "Kosketuskohteiden tulee olla riittävän suuria ja etäällä toisistaan ({0})"
+
+msgid "target-size (resolved)"
+msgstr "Kosketuskohteet ovat riittävän suuria ja etäällä toisistaan (ratkaistu)"
+
+msgid "is-on-https (unresolved)"
+msgstr "Ei käytä HTTPS:ää ({0})"
+
+msgid "is-on-https (resolved)"
+msgstr "Käyttää HTTPS:ää (ratkaistu)"
+
+msgid "redirects-http (unresolved)"
+msgstr "Ei uudelleenohjaa HTTP-liikennettä HTTPS:ään ({0})"
+
+msgid "redirects-http (resolved)"
+msgstr "Uudelleenohjaa HTTP-liikenteen HTTPS:ään (ratkaistu)"
+
+msgid "image-size-responsive (unresolved)"
+msgstr "Serverar bilder med låg upplösning ({0})"
+
+msgid "image-size-responsive (resolved)"
+msgstr "Serverar bilder med låg upplösning (ratkaistu)"
+
+msgid "aria-required-children (unresolved)"
+msgstr "Element med en ARIA `[role]` som kräver att barn innehåller en specifik `[role]` har alla nödvändiga barn ({0})"
+
+msgid "aria-required-children (resolved)"
+msgstr "Element med en ARIA `[role]` som kräver att barn innehåller en specifik `[role]` har alla nödvändiga barn (ratkaistu)"
+
+msgid "aria-required-parent (unresolved)"
+msgstr "`[role]` är placerade inom sitt nödvändiga förälderelement ({0})"
+
+msgid "aria-required-parent (resolved)"
+msgstr "`[role]` är placerade inom sitt nödvändiga förälderelement (ratkaistu)"
+
+msgid "inspector-issues (unresolved)"
+msgstr "Problem i panelen `Issues` i Chrome Devtools ({0})"
+
+msgid "inspector-issues (resolved)"
+msgstr "Inga problem i panelen `Issues` i Chrome Devtools (ratkaistu)"
+
+msgid "cls-culprits-insight (unresolved)"
+msgstr "Resultat för layoutförskjutning ({0})"
+
+msgid "cls-culprits-insight (resolved)"
+msgstr "Resultat för layoutförskjutning (ratkaistu)"
+
+msgid "document-latency-insight (unresolved)"
+msgstr "Fördröjning av dokumentbegäran ({0})"
+
+msgid "document-latency-insight (resolved)"
+msgstr "Fördröjning av dokumentbegäran (ratkaistu)"
+
+msgid "dom-size-insight (unresolved)"
+msgstr "Optimera DOM-storlek ({0})"
+
+msgid "dom-size-insight (resolved)"
+msgstr "Optimera DOM-storlek (ratkaistu)"
+
+msgid "duplicated-javascript-insight (unresolved)"
+msgstr "Duplicerad JavaScript ({0})"
+
+msgid "duplicated-javascript-insight (resolved)"
+msgstr "Duplicerad JavaScript (ratkaistu)"
+
+msgid "font-display-insight (unresolved)"
+msgstr "Teckensnittsvisning ({0})"
+
+msgid "font-display-insight (resolved)"
+msgstr "Teckensnittsvisning (ratkaistu)"
+
+msgid "image-delivery-insight (unresolved)"
+msgstr "Förbättra bildleveransen ({0})"
+
+msgid "image-delivery-insight (resolved)"
+msgstr "Förbättra bildleveransen (ratkaistu)"
+
+msgid "interaction-to-next-paint-insight (unresolved)"
+msgstr "Interaktion till nästa uppritning ({0})"
+
+msgid "interaction-to-next-paint-insight (resolved)"
+msgstr "Interaktion till nästa uppritning (ratkaistu)"
+
+msgid "lcp-discovery-insight (unresolved)"
+msgstr "Upptäcka LCP-begäran ({0})"
+
+msgid "lcp-discovery-insight (resolved)"
+msgstr "Upptäcka LCP-begäran (ratkaistu)"
+
+msgid "lcp-phases-insight (unresolved)"
+msgstr "LCP-fördelning ({0})"
+
+msgid "lcp-phases-insight (resolved)"
+msgstr "LCP-fördelning (ratkaistu)"
+
+msgid "legacy-javascript-insight (unresolved)"
+msgstr "Äldre JavaScript ({0})"
+
+msgid "legacy-javascript-insight (resolved)"
+msgstr "Äldre JavaScript (ratkaistu)"
+
+msgid "modern-http-insight (unresolved)"
+msgstr "Modern HTTP ({0})"
+
+msgid "modern-http-insight (resolved)"
+msgstr "Modern HTTP (ratkaistu)"
+
+msgid "network-dependency-tree-insight (unresolved)"
+msgstr "Nätverksberoendeträd ({0})"
+
+msgid "network-dependency-tree-insight (resolved)"
+msgstr "Nätverksberoendeträd (ratkaistu)"
+
+msgid "render-blocking-insight (unresolved)"
+msgstr "Begäranden om renderingsblockering ({0})"
+
+msgid "render-blocking-insight (resolved)"
+msgstr "Begäranden om renderingsblockering (ratkaistu)"
+
+msgid "third-parties-insight (unresolved)"
+msgstr "Tredje part ({0})"
+
+msgid "third-parties-insight (resolved)"
+msgstr "Tredje part (ratkaistu)"
+
+msgid "use-cache-insight (unresolved)"
+msgstr "Använd effektiva cachelivslängder ({0})"
+
+msgid "use-cache-insight (resolved)"
+msgstr "Använd effektiva cachelivslängder (ratkaistu)"
+
+msgid "viewport-insight (unresolved)"
+msgstr "Optimera visningsområde för mobila enheter ({0})"
+
+msgid "viewport-insight (resolved)"
+msgstr "Optimera visningsområde för mobila enheter (ratkaistu)"
+
+msgid "cache-insight (unresolved)"
+msgstr "cache-insight ({0})"
+
+msgid "cache-insight (resolved)"
+msgstr "cache-insight (resolved)"
+
+msgid "label-content-name-mismatch (unresolved)"
+msgstr "label-content-name-mismatch ({0})"
+
+msgid "label-content-name-mismatch (resolved)"
+msgstr "label-content-name-mismatch (resolved)"

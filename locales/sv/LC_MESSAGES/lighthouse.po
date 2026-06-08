@@ -587,3 +587,15 @@ msgstr "Optimera visningsområde för mobila enheter ({0})"
 
 msgid "viewport-insight (resolved)"
 msgstr "Optimera visningsområde för mobila enheter (löst)"
+
+msgid "cache-insight (unresolved)"
+msgstr "cache-insight ({0})"
+
+msgid "cache-insight (resolved)"
+msgstr "cache-insight (resolved)"
+
+msgid "label-content-name-mismatch (unresolved)"
+msgstr "label-content-name-mismatch ({0})"
+
+msgid "label-content-name-mismatch (resolved)"
+msgstr "label-content-name-mismatch (resolved)"

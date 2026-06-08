@@ -220,3 +220,15 @@ msgstr "CSS, Tillåt inte inaktuella egenskaper ({0})"
 
 msgid "property-no-deprecated (resolved)"
 msgstr "CSS, Tillåt inte inaktuella egenskaper (löst)"
+
+msgid "CssSyntaxError (unresolved)"
+msgstr "CssSyntaxError ({0})"
+
+msgid "CssSyntaxError (resolved)"
+msgstr "CssSyntaxError (resolved)"
+
+msgid "no-network (unresolved)"
+msgstr "no-network ({0})"
+
+msgid "no-network (resolved)"
+msgstr "no-network (resolved)"

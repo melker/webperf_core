@@ -1,0 +1,601 @@
+# Icelandic
+# Copyright (C) 2025 WebPerf
+# FIRST AUTHOR <mattias@webperf.se>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-04-27 12:00\n"
+"PO-Revision-Date: 2025-10-15 18:00\n"
+"Last-Translator: Mattias <mattias@webperf.se>\n"
+"Language-Team: Icelandic <team@webperf.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+#
+# Example(s):
+# Please note that msgid has to be unique in each file.
+# {0} in msgstr will add the severity, one of (critical, error, warning, resolved).
+
+msgid "rule-id (unresolved)"
+msgstr "Texti sem birtist í stað msgid, sýndur fyrir alvarleikastig (critical, error og warning)"
+
+msgid "rule-id (resolved)"
+msgstr "Texti sem birtist í stað msgid, hér einstakt á alvarleikastigi (resolved)"
+
+msgid "rule-id"
+msgstr "Texti sem birtist í stað msgid, hér óháð alvarleikastigi"
+
+# End of Examples
+
+
+msgid "largest-contentful-paint-element (unresolved)"
+msgstr "Stærsti efnisríki einingin ({0})"
+
+msgid "largest-contentful-paint-element (resolved)"
+msgstr "Stærsti efnisríki einingin (leyst)"
+
+msgid "unused-css-rules (unresolved)"
+msgstr "Draga úr ónotuðu CSS ({0})"
+
+msgid "unused-css-rules (resolved)"
+msgstr "Draga úr ónotuðu CSS (leyst)"
+
+msgid "unused-javascript (unresolved)"
+msgstr "Draga úr ónotuðu JavaScript ({0})"
+
+msgid "unused-javascript (resolved)"
+msgstr "Draga úr ónotuðu JavaScript (leyst)"
+
+msgid "legacy-javascript (unresolved)"
+msgstr "Forðast að afhenda eldra JavaScript til nútíma vafra ({0})"
+
+msgid "legacy-javascript (resolved)"
+msgstr "Forðast að afhenda eldra JavaScript til nútíma vafra (leyst)"
+
+msgid "cumulative-layout-shift (unresolved)"
+msgstr "Uppsöfnuð skipulagsbreyting ({0})"
+
+msgid "cumulative-layout-shift (resolved)"
+msgstr "Uppsöfnuð skipulagsbreyting (leyst)"
+
+msgid "duplicated-javascript (unresolved)"
+msgstr "Fjarlægja tvíteknar einingar í JavaScript-búntum ({0})"
+
+msgid "duplicated-javascript (resolved)"
+msgstr "Fjarlægja tvíteknar einingar í JavaScript-búntum (leyst)"
+
+msgid "layout-shifts (unresolved)"
+msgstr "Forðast stórar skipulagsbreytingar ({0})"
+
+msgid "layout-shifts (resolved)"
+msgstr "Forðast stórar skipulagsbreytingar (leyst)"
+
+msgid "largest-contentful-paint (unresolved)"
+msgstr "Stærsta efnisríka málning ({0})"
+
+msgid "largest-contentful-paint (resolved)"
+msgstr "Stærsta efnisríka málning (leyst)"
+
+msgid "uses-long-cache-ttl (unresolved)"
+msgstr "Þjóna kyrrstæðum auðlindum með skilvirkri biðminnis-stefnu ({0})"
+
+msgid "uses-long-cache-ttl (resolved)"
+msgstr "Þjóna kyrrstæðum auðlindum með skilvirkri biðminnis-stefnu (leyst)"
+
+msgid "first-contentful-paint (unresolved)"
+msgstr "Fyrsta efnisríka málning ({0})"
+
+msgid "first-contentful-paint (resolved)"
+msgstr "Fyrsta efnisríka málning (leyst)"
+
+msgid "render-blocking-resources (unresolved)"
+msgstr "Útrýma myndun-blokkerandi auðlindum ({0})"
+
+msgid "render-blocking-resources (resolved)"
+msgstr "Útrýma myndun-blokkerandi auðlindum (leyst)"
+
+msgid "total-blocking-time (unresolved)"
+msgstr "Heildar lokunar tími ({0})"
+
+msgid "total-blocking-time (resolved)"
+msgstr "Heildar lokunar tími (leyst)"
+
+msgid "speed-index (unresolved)"
+msgstr "Hraðavísitala ({0})"
+
+msgid "speed-index (resolved)"
+msgstr "Hraðavísitala (leyst)"
+
+msgid "interactive (unresolved)"
+msgstr "Tími til gagnvirkni ({0})"
+
+msgid "interactive (resolved)"
+msgstr "Tími til gagnvirkni (leyst)"
+
+msgid "max-potential-fid (unresolved)"
+msgstr "Hámarks mögulegt fyrstu innsláttar seinkun ({0})"
+
+msgid "max-potential-fid (resolved)"
+msgstr "Hámarks mögulegt fyrstu innsláttar seinkun (leyst)"
+
+msgid "uses-responsive-images (unresolved)"
+msgstr "Stilla myndastærðir rétt ({0})"
+
+msgid "uses-responsive-images (resolved)"
+msgstr "Stilla myndastærðir rétt (leyst)"
+
+msgid "offscreen-images (unresolved)"
+msgstr "Fresta myndum utan skjás ({0})"
+
+msgid "offscreen-images (resolved)"
+msgstr "Fresta myndum utan skjás (leyst)"
+
+msgid "unminified-css (unresolved)"
+msgstr "Þjappa CSS ({0})"
+
+msgid "unminified-css (resolved)"
+msgstr "Þjappa CSS (leyst)"
+
+msgid "unminified-javascript (unresolved)"
+msgstr "Þjappa JavaScript ({0})"
+
+msgid "unminified-javascript (resolved)"
+msgstr "Þjappa JavaScript (leyst)"
+
+msgid "uses-optimized-images (unresolved)"
+msgstr "Skilvirk kóðun mynda ({0})"
+
+msgid "uses-optimized-images (resolved)"
+msgstr "Skilvirk kóðun mynda (leyst)"
+
+msgid "modern-image-formats (unresolved)"
+msgstr "Þjóna myndum á næstu kynslóðar sniði ({0})"
+
+msgid "modern-image-formats (resolved)"
+msgstr "Þjóna myndum á næstu kynslóðar sniði (leyst)"
+
+msgid "uses-text-compression (unresolved)"
+msgstr "Virkja textaþjöppun ({0})"
+
+msgid "uses-text-compression (resolved)"
+msgstr "Virkja textaþjöppun (leyst)"
+
+msgid "uses-rel-preconnect (unresolved)"
+msgstr "Fortengja við nauðsynlegan uppruna ({0})"
+
+msgid "uses-rel-preconnect (resolved)"
+msgstr "Fortengja við nauðsynlegan uppruna (leyst)"
+
+msgid "server-response-time (unresolved)"
+msgstr "Upphaflegur svartími miðlara var stuttur ({0})"
+
+msgid "server-response-time (resolved)"
+msgstr "Upphaflegur svartími miðlara var stuttur (leyst)"
+
+msgid "redirects (unresolved)"
+msgstr "Forðast margar endurbeingar síðu ({0})"
+
+msgid "redirects (resolved)"
+msgstr "Forðast margar endurbeingar síðu (leyst)"
+
+msgid "efficient-animated-content (unresolved)"
+msgstr "Nota vídeósnið fyrir hreyfimynda innihald ({0})"
+
+msgid "efficient-animated-content (resolved)"
+msgstr "Nota vídeósnið fyrir hreyfimynda innihald (leyst)"
+
+msgid "total-byte-weight (unresolved)"
+msgstr "Forðast gríðarstórar netálagsupplýsingar ({0})"
+
+msgid "total-byte-weight (resolved)"
+msgstr "Forðast gríðarstórar netálagsupplýsingar (leyst)"
+
+msgid "dom-size (unresolved)"
+msgstr "Forðast of mikla DOM-stærð ({0})"
+
+msgid "dom-size (resolved)"
+msgstr "Forðast of mikla DOM-stærð (leyst)"
+
+msgid "bootup-time (unresolved)"
+msgstr "JavaScript-keyrslutími ({0})"
+
+msgid "bootup-time (resolved)"
+msgstr "JavaScript-keyrslutími (leyst)"
+
+msgid "mainthread-work-breakdown (unresolved)"
+msgstr "Lágmarka vinnu á aðalþræði ({0})"
+
+msgid "mainthread-work-breakdown (resolved)"
+msgstr "Lágmarka vinnu á aðalþræði (leyst)"
+
+msgid "font-display (unresolved)"
+msgstr "Allur texti skal haldast sýnilegur við webfont-hleðslu ({0})"
+
+msgid "font-display (resolved)"
+msgstr "Allur texti helst sýnilegur við webfont-hleðslu (leyst)"
+
+msgid "uses-passive-event-listeners (unresolved)"
+msgstr "Nota óvirka hlustara til að bæta skrunafköst ({0})"
+
+msgid "uses-passive-event-listeners (resolved)"
+msgstr "Notar óvirka hlustara til að bæta skrunafköst (leyst)"
+
+msgid "no-document-write (unresolved)"
+msgstr "Javascript, forðast `document.write()` ({0})"
+
+msgid "no-document-write (resolved)"
+msgstr "Javascript, forðast `document.write() (leyst)"
+
+msgid "long-tasks (unresolved)"
+msgstr "Forðast löng aðalþráðarverkefni ({0})"
+
+msgid "long-tasks (resolved)"
+msgstr "Forðast löng aðalþráðarverkefni (leyst)"
+
+msgid "unsized-images (unresolved)"
+msgstr "Myndaeiningar skulu hafa sérstakt `width` och `height` ({0})"
+
+msgid "unsized-images (resolved)"
+msgstr "Myndaeiningar hafa sérstakt `width` och `height` (leyst)"
+
+msgid "viewport (unresolved)"
+msgstr "Ska ha en <meta name=\"viewport\">-tagg med width eller initial-scale ({0})"
+
+msgid "viewport (resolved)"
+msgstr "Har en <meta name=\"viewport\">-tagg med width eller initial-scale (leyst)"
+
+msgid "network-requests (unresolved)"
+msgstr "Nätverksbeiðnir ({0})"
+
+msgid "network-requests (resolved)"
+msgstr "Nätverksbeiðnir (leyst)"
+
+msgid "network-rtt (unresolved)"
+msgstr "Ferðatímar netsins ({0})"
+
+msgid "network-rtt (resolved)"
+msgstr "Ferðatímar netsins (leyst)"
+
+msgid "network-server-latency (unresolved)"
+msgstr "Bakenda-seinkanir miðlara ({0})"
+
+msgid "network-server-latency (resolved)"
+msgstr "Bakenda-seinkanir miðlara (leyst)"
+
+msgid "main-thread-tasks (unresolved)"
+msgstr "Aðalþráðarverkefni ({0})"
+
+msgid "main-thread-tasks (resolved)"
+msgstr "Aðalþráðarverkefni (leyst)"
+
+msgid "diagnostics (unresolved)"
+msgstr "Greining ({0})"
+
+msgid "diagnostics (resolved)"
+msgstr "Greining (leyst)"
+
+msgid "metrics (unresolved)"
+msgstr "Mæligildi ({0})"
+
+msgid "metrics (resolved)"
+msgstr "Mæligildi (leyst)"
+
+msgid "screenshot-thumbnails (unresolved)"
+msgstr "Smámyndir af skjáskotum ({0})"
+
+msgid "screenshot-thumbnails (resolved)"
+msgstr "Smámyndir af skjáskotum (leyst)"
+
+msgid "final-screenshot (unresolved)"
+msgstr "lokaskjáskot ({0})"
+
+msgid "final-screenshot (resolved)"
+msgstr "lokaskjáskot (leyst)"
+
+msgid "script-treemap-data (unresolved)"
+msgstr "script-treemap-data ({0})"
+
+msgid "script-treemap-data (resolved)"
+msgstr "script-treemap-data (leyst)"
+
+msgid "resource-summary (unresolved)"
+msgstr "auðlindayfirlit ({0})"
+
+msgid "resource-summary (resolved)"
+msgstr "auðlindayfirlit (leyst)"
+
+msgid "aria-allowed-attr (unresolved)"
+msgstr "`[aria-*]`-attribut ska matcha sina roller ({0})"
+
+msgid "aria-allowed-attr (resolved)"
+msgstr "`[aria-*]`-attribut matchar sina roller (leyst)"
+
+msgid "aria-allowed-role (unresolved)"
+msgstr "Ska använda ARIA-roller endast på kompatibla element ({0})"
+
+msgid "aria-allowed-role (resolved)"
+msgstr "Använder ARIA-roller endast på kompatibla element (leyst)"
+
+msgid "aria-conditional-attr (unresolved)"
+msgstr "ARIA-attribut ska användas enligt specifikation för elementets roll ({0})"
+
+msgid "aria-conditional-attr (resolved)"
+msgstr "ARIA-attribut används enligt specifikation för elementets roll (leyst)"
+
+msgid "aria-deprecated-role (unresolved)"
+msgstr "Föråldrade ARIA-roller användes ({0})"
+
+msgid "aria-deprecated-role (resolved)"
+msgstr "Föråldrade ARIA-roller användes inte (leyst)"
+
+msgid "aria-hidden-body (unresolved)"
+msgstr "`[aria-hidden=\"true\"]` finns på dokumentets `<body>` ({0})"
+
+msgid "aria-hidden-body (resolved)"
+msgstr "`[aria-hidden=\"true\"]` finns inte på dokumentets `<body>` (leyst)"
+
+msgid "aria-hidden-focus (unresolved)"
+msgstr "`[aria-hidden=\"true\"]`-element innehåller inte fokuserbara underordnade ({0})"
+
+msgid "aria-hidden-focus (resolved)"
+msgstr "`[aria-hidden=\"true\"]`-element innehåller inte fokuserbara underordnade (leyst)"
+
+msgid "aria-prohibited-attr (unresolved)"
+msgstr "Element ska endast använda tillåtna ARIA-attribut ({0})"
+
+msgid "aria-prohibited-attr (resolved)"
+msgstr "Element notar endast tillåtna ARIA-attribut (leyst)"
+
+msgid "aria-required-attr (unresolved)"
+msgstr "`[role]` ska ha alla nödvändiga `[aria-*]`-attribut ({0})"
+
+msgid "aria-required-attr (resolved)"
+msgstr "`[role]` har alla nödvändiga `[aria-*]`-attribut (leyst)"
+
+msgid "aria-roles (unresolved)"
+msgstr "`[role]`-värden är inte giltiga ({0})"
+
+msgid "aria-roles (resolved)"
+msgstr "`[role]`-värden är giltiga (leyst)"
+
+msgid "aria-valid-attr-value (unresolved)"
+msgstr "`[aria-*]`-attribut har ogiltiga värden ({0})"
+
+msgid "aria-valid-attr-value (resolved)"
+msgstr "`[aria-*]`-attribut har giltiga värden (leyst)"
+
+msgid "aria-valid-attr (unresolved)"
+msgstr "`[aria-*]`-attribut är ogiltiga eller felstavade ({0})"
+
+msgid "aria-valid-attr (resolved)"
+msgstr "`[aria-*]`-attribut är giltiga och inte felstavade (leyst)"
+
+msgid "button-name (unresolved)"
+msgstr "Hnappar skulu hafa aðgengilegt heiti ({0})"
+
+msgid "button-name (resolved)"
+msgstr "Hnappar hafa aðgengilegt heiti (leyst)"
+
+msgid "color-contrast (unresolved)"
+msgstr "Bakgrunns- og forgrunnslitur skulu hafa nægjanlegan andstæðu ({0})"
+
+msgid "color-contrast (resolved)"
+msgstr "Bakgrunns- og forgrunnslitur hafa nægjanlegan andstæðu (leyst)"
+
+msgid "document-title (unresolved)"
+msgstr "Skjalið skal hafa `<title>`-element ({0})"
+
+msgid "document-title (resolved)"
+msgstr "Skjalið hefur `<title>`-element (leyst)"
+
+msgid "heading-order (unresolved)"
+msgstr "Fyrirsagnaeiningar skulu birtast í röð lækkandi ({0})"
+
+msgid "heading-order (resolved)"
+msgstr "Fyrirsagnaeiningar birtast í röð lækkandi (leyst)"
+
+msgid "html-has-lang (unresolved)"
+msgstr "`<html>`-elementet ska ha ett `[lang]`-attribut ({0})"
+
+msgid "html-has-lang (resolved)"
+msgstr "`<html>`-elementet har ett `[lang]`-attribut (leyst)"
+
+msgid "html-lang-valid (unresolved)"
+msgstr "`<html>`-elementet ska ha ett giltigt värde för sitt `[lang]`-attribut ({0})"
+
+msgid "html-lang-valid (resolved)"
+msgstr "`<html>`-elementet har ett giltigt värde för sitt `[lang]`-attribut (leyst)"
+
+msgid "image-alt (unresolved)"
+msgstr "Bildelement ska ha `[alt]`-attribut ({0})"
+
+msgid "image-alt (resolved)"
+msgstr "Bildelement har `[alt]`-attribut (leyst)"
+
+msgid "image-redundant-alt (unresolved)"
+msgstr "Bildelement ska inte ha `[alt]`-attribut som är redundant text ({0})"
+
+msgid "image-redundant-alt (resolved)"
+msgstr "Bildelement har inte `[alt]`-attribut som är redundant text (leyst)"
+
+msgid "link-in-text-block (unresolved)"
+msgstr "Tenglar eru ekki aðgreinanlegir án þess að reiða sig á lit ({0})"
+
+msgid "link-in-text-block (resolved)"
+msgstr "Tenglar eru aðgreinanlegir án þess að reiða sig á lit (leyst)"
+
+msgid "link-name (unresolved)"
+msgstr "Tenglar skulu hafa auðgreint heiti ({0})"
+
+msgid "link-name (resolved)"
+msgstr "Tenglar hafa auðgreint heiti (leyst)"
+
+msgid "list (unresolved)"
+msgstr "Listor ska endast innehålla `<li>`-element och skriptstödelement (`<script>` och `<template>`) ({0})"
+
+msgid "list (resolved)"
+msgstr "Listor innehåller endast `<li>`-element och skriptstödelement (`<script>` och `<template>`) (leyst)"
+
+msgid "listitem (unresolved)"
+msgstr "Listobjekt (`<li>`) är inte placerade inom `<ul>`, `<ol>` eller `<menu>`-förälderelement ({0})"
+
+msgid "listitem (resolved)"
+msgstr "Listobjekt (`<li>`) är placerade inom `<ul>`, `<ol>` eller `<menu>`-förälderelement (leyst)"
+
+msgid "meta-viewport (unresolved)"
+msgstr "`[user-scalable=\"no\"]` används i `<meta name=\"viewport\">`-elementet eller `[maximum-scale]`-attributet är mindre än 5 ({0})"
+
+msgid "meta-viewport (resolved)"
+msgstr "`[user-scalable=\"no\"]` används inte i `<meta name=\"viewport\">`-elementet och `[maximum-scale]`-attributet är inte mindre än 5 (leyst)"
+
+msgid "target-size (unresolved)"
+msgstr "Snertimörk skulu hafa nægjanlega stærð og bil ({0})"
+
+msgid "target-size (resolved)"
+msgstr "Snertimörk hafa nægjanlega stærð og bil (leyst)"
+
+msgid "is-on-https (unresolved)"
+msgstr "Notar ekki HTTPS ({0})"
+
+msgid "is-on-https (resolved)"
+msgstr "Notar HTTPS (leyst)"
+
+msgid "redirects-http (unresolved)"
+msgstr "Endurbeinar ekki HTTP-umferð til HTTPS ({0})"
+
+msgid "redirects-http (resolved)"
+msgstr "Endurbeinar HTTP-umferð til HTTPS (leyst)"
+
+msgid "image-size-responsive (unresolved)"
+msgstr "Þjónar myndum með lága upplausn ({0})"
+
+msgid "image-size-responsive (resolved)"
+msgstr "Þjónar myndum með lága upplausn (leyst)"
+
+msgid "aria-required-children (unresolved)"
+msgstr "Element med en ARIA `[role]` som kräver att barn innehåller en specifik `[role]` har alla nödvändiga barn ({0})"
+
+msgid "aria-required-children (resolved)"
+msgstr "Element med en ARIA `[role]` som kräver att barn innehåller en specifik `[role]` har alla nödvändiga barn (leyst)"
+
+msgid "aria-required-parent (unresolved)"
+msgstr "`[role]` är placerade inom sitt nödvändiga förälderelement ({0})"
+
+msgid "aria-required-parent (resolved)"
+msgstr "`[role]` är placerade inom sitt nödvändiga förälderelement (leyst)"
+
+msgid "inspector-issues (unresolved)"
+msgstr "Vandamál í spjaldinu `Issues` i Chrome Devtools ({0})"
+
+msgid "inspector-issues (resolved)"
+msgstr "Engin vandamál í spjaldinu `Issues` i Chrome Devtools (leyst)"
+
+msgid "cls-culprits-insight (unresolved)"
+msgstr "Niðurstöður skipulagsbreytinga ({0})"
+
+msgid "cls-culprits-insight (resolved)"
+msgstr "Niðurstöður skipulagsbreytinga (leyst)"
+
+msgid "document-latency-insight (unresolved)"
+msgstr "Seinkun skjalsbeiðni ({0})"
+
+msgid "document-latency-insight (resolved)"
+msgstr "Seinkun skjalsbeiðni (leyst)"
+
+msgid "dom-size-insight (unresolved)"
+msgstr "Fínstilla DOM-stærð ({0})"
+
+msgid "dom-size-insight (resolved)"
+msgstr "Fínstilla DOM-stærð (leyst)"
+
+msgid "duplicated-javascript-insight (unresolved)"
+msgstr "Tvítekið JavaScript ({0})"
+
+msgid "duplicated-javascript-insight (resolved)"
+msgstr "Tvítekið JavaScript (leyst)"
+
+msgid "font-display-insight (unresolved)"
+msgstr "Letursýning ({0})"
+
+msgid "font-display-insight (resolved)"
+msgstr "Letursýning (leyst)"
+
+msgid "image-delivery-insight (unresolved)"
+msgstr "Bæta myndaafhendingu ({0})"
+
+msgid "image-delivery-insight (resolved)"
+msgstr "Bæta myndaafhendingu (leyst)"
+
+msgid "interaction-to-next-paint-insight (unresolved)"
+msgstr "Samskipti til næstu teikningar ({0})"
+
+msgid "interaction-to-next-paint-insight (resolved)"
+msgstr "Samskipti til næstu teikningar (leyst)"
+
+msgid "lcp-discovery-insight (unresolved)"
+msgstr "Uppgötva LCP-beiðni ({0})"
+
+msgid "lcp-discovery-insight (resolved)"
+msgstr "Uppgötva LCP-beiðni (leyst)"
+
+msgid "lcp-phases-insight (unresolved)"
+msgstr "LCP-dreifing ({0})"
+
+msgid "lcp-phases-insight (resolved)"
+msgstr "LCP-dreifing (leyst)"
+
+msgid "legacy-javascript-insight (unresolved)"
+msgstr "Eldra JavaScript ({0})"
+
+msgid "legacy-javascript-insight (resolved)"
+msgstr "Eldra JavaScript (leyst)"
+
+msgid "modern-http-insight (unresolved)"
+msgstr "Nútíma HTTP ({0})"
+
+msgid "modern-http-insight (resolved)"
+msgstr "Nútíma HTTP (leyst)"
+
+msgid "network-dependency-tree-insight (unresolved)"
+msgstr "Netháðtré ({0})"
+
+msgid "network-dependency-tree-insight (resolved)"
+msgstr "Netháðtré (leyst)"
+
+msgid "render-blocking-insight (unresolved)"
+msgstr "Beiðnir um myndun-blokkun ({0})"
+
+msgid "render-blocking-insight (resolved)"
+msgstr "Beiðnir um myndun-blokkun (leyst)"
+
+msgid "third-parties-insight (unresolved)"
+msgstr "Þriðji aðili ({0})"
+
+msgid "third-parties-insight (resolved)"
+msgstr "Þriðji aðili (leyst)"
+
+msgid "use-cache-insight (unresolved)"
+msgstr "Nota skilvirka biðminnislíftíma ({0})"
+
+msgid "use-cache-insight (resolved)"
+msgstr "Nota skilvirka biðminnislíftíma (leyst)"
+
+msgid "viewport-insight (unresolved)"
+msgstr "Fínstilla birtingarsvæði fyrir farsíma ({0})"
+
+msgid "viewport-insight (resolved)"
+msgstr "Fínstilla birtingarsvæði fyrir farsíma (leyst)"
+
+msgid "cache-insight (unresolved)"
+msgstr "cache-insight ({0})"
+
+msgid "cache-insight (resolved)"
+msgstr "cache-insight (resolved)"
+
+msgid "label-content-name-mismatch (unresolved)"
+msgstr "label-content-name-mismatch ({0})"
+
+msgid "label-content-name-mismatch (resolved)"
+msgstr "label-content-name-mismatch (resolved)"

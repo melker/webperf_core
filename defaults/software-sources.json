@@ -1692,6 +1692,11 @@
             "github-owner": "mswjs",
             "github-repo": "msw"
         },
+        "municipio": {
+            "type": "wordpress-theme",
+            "github-owner": "helsingborg-stad",
+            "github-repo": "Municipio"
+        },
         "municipio-elasticsearch": {
             "type": "wordpress-plugin"
         },
